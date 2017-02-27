@@ -1,0 +1,2936 @@
+{
+    "HotelListResponse": {
+        "customerSessionId": "0ABAAA66-7979-EC91-5A42-C4E7E98950F9",
+        "numberOfRoomsRequested": 1,
+        "moreResultsAvailable": true,
+        "cacheKey": "237979ec:15a4c4e7e98:516d",
+        "cacheLocation": "10.186.170.102:7300",
+        "cachedSupplierResponse": {
+            "@supplierCacheTolerance": "NOT_SUPPORTED",
+            "@cachedTime": "0",
+            "@candidatePreptime": "55",
+            "@otherOverheadTime": "475",
+            "@tpidUsed": "5001",
+            "@matchedCurrency": "true",
+            "@matchedLocale": "true"
+        },
+        "HotelList": {
+            "@size": "25",
+            "@activePropertyCount": "279",
+            "HotelSummary": [
+                {
+                    "@order": "0",
+                    "@ubsScore": "0",
+                    "hotelId": 224154,
+                    "name": "The Inn at Virginia Mason",
+                    "address1": "1006 Spring Street",
+                    "city": "Seattle",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98104,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 257,
+                    "tripAdvisorRating": 3.5,
+                    "tripAdvisorReviewCount": 201,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-123456-4.gif",
+                    "locationDescription": "Near Nordstrom",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;With a stay at The Inn at Virginia Mason in Seattle (Seattle Central Business District), you&apos;ll be minutes from Sorrento Hotel and Washington State Convention",
+                    "highRate": 129.17,
+                    "lowRate": 129.17,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.6097,
+                    "longitude": -122.32664,
+                    "proximityDistance": 10.79129,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/3000000/2640000/2635500/2635458/2635458_23_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 200305058,
+                            "rateCode": 201841096,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Traditional Room, 2 Single Beds",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 2635458,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "81368421-6039-40bc-a0c9-297004e941ae-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "129.17",
+                                                    "@rate": "129.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "129.17",
+                                                    "@rate": "129.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "129.17",
+                                        "@averageRate": "129.17",
+                                        "@commissionableUsdTotal": "258.34",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "129.17",
+                                        "@nightlyRateTotal": "258.34",
+                                        "@surchargeTotal": "48.38",
+                                        "@total": "306.72",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "129.17",
+                                                    "@rate": "129.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "129.17",
+                                                    "@rate": "129.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "48.38"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 7
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "1",
+                    "@ubsScore": "0",
+                    "hotelId": 619215,
+                    "name": "Hampton Inn & Suites by Hilton Seattle/Northgate",
+                    "address1": "9550 1st Ave Ne",
+                    "city": "Seattle",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98115,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 0,
+                    "amenityMask": 1443843,
+                    "tripAdvisorRating": 5,
+                    "tripAdvisorReviewCount": 21,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-123456-4.gif",
+                    "locationDescription": "Near Northgate Mall",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;With a stay at Hampton Inn &amp; Suites by Hilton Seattle/Northgate in Seattle (Northgate), you&apos;ll be minutes from North Seattle Community College and close to Northgate",
+                    "highRate": 135.18,
+                    "lowRate": 135.18,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.69886,
+                    "longitude": -122.32843,
+                    "proximityDistance": 12.970963,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/16000000/15850000/15849800/15849777/a65d8343_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 201636315,
+                            "rateCode": 208177366,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Room, 1 King Bed, Non Smoking",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 15849777,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "103c69ee-ae3e-4e58-b920-78eb0981076c-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "135.18",
+                                                    "@rate": "135.18",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "135.18",
+                                                    "@rate": "135.18",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "135.18",
+                                        "@averageRate": "135.18",
+                                        "@commissionableUsdTotal": "270.36",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "135.18",
+                                        "@nightlyRateTotal": "270.36",
+                                        "@surchargeTotal": "55.49",
+                                        "@total": "325.85",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "135.18",
+                                                    "@rate": "135.18",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "135.18",
+                                                    "@rate": "135.18",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "55.49"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": true,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 2147483647
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "2",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2191",
+                                        "description": "Free High-Speed Internet"
+                                    }, {
+                                        "@id": "2205",
+                                        "description": "Breakfast Buffet"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "2",
+                    "@ubsScore": "0",
+                    "hotelId": 108440,
+                    "name": "Holiday Inn Seattle-Issaquah",
+                    "address1": "1801 12th Ave Nw",
+                    "city": "Issaquah",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98027,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 3,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 135676163,
+                    "tripAdvisorRating": 4,
+                    "tripAdvisorReviewCount": 171,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+                    "locationDescription": "Near Costco Headquarters",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;Located in Issaquah, Holiday Inn Seattle-Issaquah is in the suburbs and minutes from Costco Headquarters and Lake Sammamish State Park. This hotel is within close",
+                    "highRate": 139.17,
+                    "lowRate": 120.15,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.55003,
+                    "longitude": -122.05723,
+                    "proximityDistance": 3.6016665,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/20000/11100/11100/11100_292_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 248316,
+                            "rateCode": 650078,
+                            "maxRoomOccupancy": 3,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Room, 1 King Bed, Non Smoking - Advance Purchase Offers",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 11100,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "true",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "c52021ec-2a21-4b68-8501-440fee917f04-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "120.15",
+                                                    "@rate": "120.15",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "139.17",
+                                                    "@rate": "139.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "129.66",
+                                        "@averageRate": "129.66",
+                                        "@commissionableUsdTotal": "259.32",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "139.17",
+                                        "@nightlyRateTotal": "259.32",
+                                        "@surchargeTotal": "41.28",
+                                        "@total": "300.60",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "120.15",
+                                                    "@rate": "120.15",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "139.17",
+                                                    "@rate": "139.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "41.28"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": true,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 2147483647
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "3",
+                    "@ubsScore": "0",
+                    "hotelId": 164876,
+                    "name": "Studio 6 Seattle - Mountlake Terrace",
+                    "address1": "6017 244th Street Southwest",
+                    "city": "Mountlake Terrace",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98043,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 91,
+                    "amenityMask": 134234176,
+                    "tripAdvisorRating": 0,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/0.0-123456-4.gif",
+                    "locationDescription": "Near Cinebarre - Mountlake Terrace",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;With a stay at Studio 6 Seattle - Mountlake Terrace in Mountlake Terrace, you&apos;ll be in the suburbs and minutes from Cinebarre - Mountlake Terrace, and close to",
+                    "highRate": 74.25,
+                    "lowRate": 74.25,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.77963,
+                    "longitude": -122.31368,
+                    "proximityDistance": 16.27125,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/130000/126200/126123/126123_17_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 201819059,
+                            "rateCode": 209244142,
+                            "maxRoomOccupancy": 4,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Standard Room, 1 Queen Bed",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 126123,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "58460372-4f46-4807-bf6c-4e90b0978a99-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "74.25",
+                                                    "@rate": "74.25",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "74.25",
+                                                    "@rate": "74.25",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "74.25",
+                                        "@averageRate": "74.25",
+                                        "@commissionableUsdTotal": "148.50",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "74.25",
+                                        "@nightlyRateTotal": "148.50",
+                                        "@surchargeTotal": "24.32",
+                                        "@total": "172.82",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "74.25",
+                                                    "@rate": "74.25",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "74.25",
+                                                    "@rate": "74.25",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "24.32"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "HotelFees": {
+                                        "@size": "1",
+                                        "HotelFee": {
+                                            "@description": "MandatoryFee",
+                                            "@amount": "4.00"
+                                        }
+                                    },
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 27
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "1",
+                                "ValueAdd": {
+                                    "@id": "2109",
+                                    "description": "Free Parking"
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "4",
+                    "@ubsScore": "0",
+                    "hotelId": 224267,
+                    "name": "Best Western Plus Edmonds Harbor Inn",
+                    "address1": "130 W Dayton Street",
+                    "city": "Edmonds",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98020,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 95,
+                    "amenityMask": 135686211,
+                    "tripAdvisorRating": 4.5,
+                    "tripAdvisorReviewCount": 816,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-123456-4.gif",
+                    "locationDescription": "In Edmonds (Edmonds Waterfront)",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;Located in Edmonds (Edmonds Waterfront), Best Western Plus Edmonds Harbor Inn is minutes from Edmonds Marsh and Edmonds Ferry Dock. This hotel is within close",
+                    "highRate": 110.2,
+                    "lowRate": 110.2,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.80978,
+                    "longitude": -122.38515,
+                    "proximityDistance": 20.002934,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/910000/904700/904672/904672_132_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 200989970,
+                            "rateCode": 204824794,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Standard Room, 1 Queen Bed, Non Smoking, Refrigerator - Flexible Rate",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 904672,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "334dd84c-dd46-4dc9-8d55-f0c43bf4c3f2-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "110.20",
+                                                    "@rate": "110.20",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "110.20",
+                                                    "@rate": "110.20",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "110.20",
+                                        "@averageRate": "110.20",
+                                        "@commissionableUsdTotal": "220.40",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "110.20",
+                                        "@nightlyRateTotal": "220.40",
+                                        "@surchargeTotal": "36.18",
+                                        "@total": "256.58",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "110.20",
+                                                    "@rate": "110.20",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "110.20",
+                                                    "@rate": "110.20",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "36.18"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 4
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "1",
+                                "ValueAdd": {
+                                    "@id": "2104",
+                                    "description": "Full Breakfast"
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "5",
+                    "@ubsScore": "0",
+                    "hotelId": 128986,
+                    "name": "Extended Stay America Seattle - Tukwila",
+                    "address1": "15451 53rd Ave S",
+                    "city": "Tukwila",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98188,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 4,
+                    "hotelRating": 2.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 134236224,
+                    "tripAdvisorRating": 3,
+                    "tripAdvisorReviewCount": 76,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-123456-4.gif",
+                    "locationDescription": "Near Westfield Southcenter Mall",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;With a stay at Extended Stay America Seattle - Tukwila in Tukwila, you&apos;ll be convenient to Westfield Southcenter Mall and Acme Bowl. This aparthotel is within close",
+                    "highRate": 90.16,
+                    "lowRate": 90.16,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.46416,
+                    "longitude": -122.26833,
+                    "proximityDistance": 12.110442,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/50000/41200/41119/41119_33_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 218606,
+                            "rateCode": 202474151,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Studio, 1 Queen Bed, Non Smoking",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 41119,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "e62e225a-4f99-46ce-9446-58029140adfd-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "90.16",
+                                                    "@rate": "90.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "90.16",
+                                                    "@rate": "90.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "90.16",
+                                        "@averageRate": "90.16",
+                                        "@commissionableUsdTotal": "180.32",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "90.16",
+                                        "@nightlyRateTotal": "180.32",
+                                        "@surchargeTotal": "31.54",
+                                        "@total": "211.86",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "90.16",
+                                                    "@rate": "90.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "90.16",
+                                                    "@rate": "90.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "31.54"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": true,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 57
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "2",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2192",
+                                        "description": "Free Wireless Internet"
+                                    }, {
+                                        "@id": "2103",
+                                        "description": "Continental Breakfast"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "6",
+                    "@ubsScore": "0",
+                    "hotelId": 444428,
+                    "name": "Homewood Suites by Hilton Seattle/Lynnwood",
+                    "address1": "18123 Alderwood Mall Pkwy",
+                    "city": "Lynnwood",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98037,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 3,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 135677955,
+                    "tripAdvisorRating": 4.5,
+                    "tripAdvisorReviewCount": 523,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-123456-4.gif",
+                    "locationDescription": "Near Alderwood Mall",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;In the heart of Lynnwood, Homewood Suites by Hilton Seattle/Lynnwood is close to Alderwood Mall and Lynnwood Convention Center. This hotel is within close proximity",
+                    "highRate": 126.93,
+                    "lowRate": 101.37,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.83446,
+                    "longitude": -122.26987,
+                    "proximityDistance": 18.40129,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/7000000/6780000/6772300/6772222/6772222_10_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 200414178,
+                            "rateCode": 202394913,
+                            "maxRoomOccupancy": 4,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Studio Suite, 1 King Bed",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 6772222,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "true",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "6c328c52-0c94-4768-a7c9-401c6c587a11-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "101.37",
+                                                    "@rate": "101.37",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "126.93",
+                                                    "@rate": "126.93",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "114.15",
+                                        "@averageRate": "114.15",
+                                        "@commissionableUsdTotal": "228.30",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "126.93",
+                                        "@nightlyRateTotal": "228.30",
+                                        "@surchargeTotal": "37.92",
+                                        "@total": "266.22",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "101.37",
+                                                    "@rate": "101.37",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "126.93",
+                                                    "@rate": "126.93",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "37.92"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": true,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 2147483647
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "3",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2191",
+                                        "description": "Free High-Speed Internet"
+                                    }, {
+                                        "@id": "2205",
+                                        "description": "Breakfast Buffet"
+                                    }, {
+                                        "@id": "2208",
+                                        "description": "Full Kitchen"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "7",
+                    "@ubsScore": "0",
+                    "hotelId": 116666,
+                    "name": "Best Western Alderwood",
+                    "address1": "19332 36th Ave W",
+                    "city": "Lynnwood",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98036,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 134244355,
+                    "tripAdvisorRating": 4,
+                    "tripAdvisorReviewCount": 621,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+                    "locationDescription": "Near Lynnwood Convention Center",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;With a stay at Best Western Alderwood in Lynnwood, you&apos;ll be in the suburbs and minutes from Lynnwood Convention Center, and close to Alderwood Mall. This hotel is",
+                    "highRate": 81.17,
+                    "lowRate": 81.17,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.82323,
+                    "longitude": -122.28173,
+                    "proximityDistance": 17.965239,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/50000/40300/40278/40278_176_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 201041055,
+                            "rateCode": 205073321,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Standard Room, 1 King Bed, Non Smoking, Refrigerator - Web Special",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 40278,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "36242b5c-f1a5-462d-beda-1cf7f61e9707-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "81.17",
+                                                    "@rate": "81.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "81.17",
+                                                    "@rate": "81.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "81.17",
+                                        "@averageRate": "81.17",
+                                        "@commissionableUsdTotal": "162.34",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "81.17",
+                                        "@nightlyRateTotal": "162.34",
+                                        "@surchargeTotal": "27.18",
+                                        "@total": "189.52",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "81.17",
+                                                    "@rate": "81.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "81.17",
+                                                    "@rate": "81.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "27.18"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 4
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "2",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2191",
+                                        "description": "Free High-Speed Internet"
+                                    }, {
+                                        "@id": "2104",
+                                        "description": "Full Breakfast"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "8",
+                    "@ubsScore": "0",
+                    "hotelId": 148261,
+                    "name": "Extended Stay America Seattle - Kent",
+                    "address1": "22520 83rd Ave S",
+                    "city": "Kent",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98032,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 4,
+                    "hotelRating": 2.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 134236224,
+                    "tripAdvisorRating": 2.5,
+                    "tripAdvisorReviewCount": 91,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/2.5-123456-4.gif",
+                    "locationDescription": "Near ShoWare Center",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;With a stay at Extended Stay America Seattle - Kent in Kent, you&apos;ll be convenient to ShoWare Center and Kent Station. This aparthotel is within close proximity of",
+                    "highRate": 72.16,
+                    "lowRate": 72.16,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.39967,
+                    "longitude": -122.22961,
+                    "proximityDistance": 14.879542,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/120000/119200/119199/119199_67_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 218425,
+                            "rateCode": 202474103,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Studio, 1 Queen Bed, Smoking",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 119199,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "89668a4e-9e9a-48cf-a5f4-78e7fb7be50e-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "72.16",
+                                                    "@rate": "72.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "72.16",
+                                                    "@rate": "72.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "72.16",
+                                        "@averageRate": "72.16",
+                                        "@commissionableUsdTotal": "144.32",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "72.16",
+                                        "@nightlyRateTotal": "144.32",
+                                        "@surchargeTotal": "22.04",
+                                        "@total": "166.36",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "72.16",
+                                                    "@rate": "72.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "72.16",
+                                                    "@rate": "72.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "22.04"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": true,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 20
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "2",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2192",
+                                        "description": "Free Wireless Internet"
+                                    }, {
+                                        "@id": "2103",
+                                        "description": "Continental Breakfast"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "9",
+                    "@ubsScore": "0",
+                    "hotelId": 206005,
+                    "name": "Mediterranean Inn",
+                    "address1": "425 Queen Anne Ave N",
+                    "city": "Seattle",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98109,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 3,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 70,
+                    "amenityMask": 1441803,
+                    "tripAdvisorRating": 4,
+                    "tripAdvisorReviewCount": 1415,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+                    "locationDescription": "Near Space Needle",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;With a stay at Mediterranean Inn, you&apos;ll be centrally located in Seattle, steps from Key Arena and minutes from Teatro ZinZanni. This hotel is close to Space Needle",
+                    "highRate": 184.28,
+                    "lowRate": 119.26,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.62244,
+                    "longitude": -122.35672,
+                    "proximityDistance": 12.288694,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/900000/897600/897598/9a11c85d_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 15567,
+                            "rateCode": 15567,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Run of House",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 897598,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "true",
+                                    "@rateChange": "true",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "72ace1c8-017f-47ab-b971-e85ddc1abdd6-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "170.26",
+                                                    "@rate": "119.26",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "184.28",
+                                                    "@rate": "129.08",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "177.27",
+                                        "@averageRate": "124.17",
+                                        "@commissionableUsdTotal": "248.34",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "129.08",
+                                        "@nightlyRateTotal": "248.34",
+                                        "@surchargeTotal": "53.79",
+                                        "@total": "302.13",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "170.26",
+                                                    "@rate": "119.26",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "184.28",
+                                                    "@rate": "129.08",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "53.79"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "promoId": 225392079,
+                                    "promoDescription": "Seasonal deal: save 30%",
+                                    "promoType": "Standard",
+                                    "currentAllotment": 2
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "10",
+                    "@ubsScore": "0",
+                    "hotelId": 148262,
+                    "name": "Extended Stay America Seattle - Lynnwood",
+                    "address1": "3021 196th St Sw",
+                    "city": "Lynnwood",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98036,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 4,
+                    "hotelRating": 2.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 134236224,
+                    "tripAdvisorRating": 3,
+                    "tripAdvisorReviewCount": 61,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-123456-4.gif",
+                    "locationDescription": "Near Lynnwood Convention Center",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;Located in Lynnwood, Extended Stay America Seattle - Lynnwood is minutes from Lynnwood Convention Center and Alderwood Mall. This aparthotel is within close",
+                    "highRate": 81.24,
+                    "lowRate": 81.24,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.82102,
+                    "longitude": -122.27433,
+                    "proximityDistance": 17.668034,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/90000/84800/84785/84785_48_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 218438,
+                            "rateCode": 202474078,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Studio, 1 Queen Bed, Non Smoking",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 84785,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "fad3274d-fc1d-465e-87ea-478d941e703a-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "81.24",
+                                                    "@rate": "81.24",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "81.24",
+                                                    "@rate": "81.24",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "81.24",
+                                        "@averageRate": "81.24",
+                                        "@commissionableUsdTotal": "162.48",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "81.24",
+                                        "@nightlyRateTotal": "162.48",
+                                        "@surchargeTotal": "26.04",
+                                        "@total": "188.52",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "81.24",
+                                                    "@rate": "81.24",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "81.24",
+                                                    "@rate": "81.24",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "26.04"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": true,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 46
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "2",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2192",
+                                        "description": "Free Wireless Internet"
+                                    }, {
+                                        "@id": "2103",
+                                        "description": "Continental Breakfast"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "11",
+                    "@ubsScore": "0",
+                    "hotelId": 187301,
+                    "name": "Salish Lodge & Spa",
+                    "address1": "6501 Railroad Ave SE",
+                    "city": "Snoqualmie",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98065,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 4,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 72,
+                    "amenityMask": 1442370,
+                    "tripAdvisorRating": 4,
+                    "tripAdvisorReviewCount": 1234,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+                    "locationDescription": "Near Snoqualmie Falls",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;With a stay at Salish Lodge &amp; Spa in Snoqualmie, you&apos;ll be on a river and minutes from Snoqualmie Falls, and close to Northwest Railway Museum. This 4-star hotel is",
+                    "highRate": 259.17,
+                    "lowRate": 259.17,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.54201,
+                    "longitude": -121.83597,
+                    "proximityDistance": 12.673794,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/10000/4800/4779/4779_71_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 200292383,
+                            "rateCode": 201748978,
+                            "maxRoomOccupancy": 4,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Deluxe Double Room, 2 Double Beds",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 4779,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "630c43d1-02ac-433c-9211-dc03c13e83fa-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "259.17",
+                                                    "@rate": "259.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "259.17",
+                                                    "@rate": "259.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "259.17",
+                                        "@averageRate": "259.17",
+                                        "@commissionableUsdTotal": "518.34",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "259.17",
+                                        "@nightlyRateTotal": "518.34",
+                                        "@surchargeTotal": "117.68",
+                                        "@total": "636.02",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "259.17",
+                                                    "@rate": "259.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "259.17",
+                                                    "@rate": "259.17",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "117.68"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 2
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "12",
+                    "@ubsScore": "0",
+                    "hotelId": 125373,
+                    "name": "Fairfield Inn & Suites Seattle Bellevue/Redmond",
+                    "address1": "14595 NE 29th Place",
+                    "city": "Bellevue",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98007,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 95,
+                    "amenityMask": 135292995,
+                    "tripAdvisorRating": 4,
+                    "tripAdvisorReviewCount": 327,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+                    "locationDescription": "Near Crossroads Mall",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;Located in Bellevue, Fairfield Inn &amp; Suites Seattle Bellevue/Redmond is in the business district and convenient to Crossroads Mall and Bellevue Golf Course. This",
+                    "highRate": 170,
+                    "lowRate": 160.99,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.63351,
+                    "longitude": -122.14621,
+                    "proximityDistance": 3.5366185,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/50000/43100/43096/43096_64_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 37379,
+                            "rateCode": 207578984,
+                            "maxRoomOccupancy": 4,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Room, 2 Queen Beds",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 43096,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "true",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "cdd3bd36-1686-40ce-baeb-6406e35e87ce-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "160.99",
+                                                    "@rate": "160.99",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "170.00",
+                                                    "@rate": "170.00",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "165.50",
+                                        "@averageRate": "165.50",
+                                        "@commissionableUsdTotal": "330.99",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "170.00",
+                                        "@nightlyRateTotal": "330.99",
+                                        "@surchargeTotal": "59.44",
+                                        "@total": "390.43",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "160.99",
+                                                    "@rate": "160.99",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "170.00",
+                                                    "@rate": "170.00",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "59.44"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": true,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 5
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "2",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2191",
+                                        "description": "Free High-Speed Internet"
+                                    }, {
+                                        "@id": "2205",
+                                        "description": "Breakfast Buffet"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "13",
+                    "@ubsScore": "0",
+                    "hotelId": 127163,
+                    "name": "Totem Lake Hotel",
+                    "address1": "12233 NE Totem Lake Way",
+                    "city": "Kirkland",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98034,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 135284995,
+                    "tripAdvisorRating": 2.5,
+                    "tripAdvisorReviewCount": 64,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/2.5-123456-4.gif",
+                    "locationDescription": "Near Chateau Ste. Michelle",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;Located in Kirkland, Totem Lake Hotel is on a lake and close to Chateau Ste. Michelle and Kirkland Performance Center. This hotel is within the vicinity of Marina",
+                    "highRate": 122.66,
+                    "lowRate": 82.23,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.71227,
+                    "longitude": -122.17726,
+                    "proximityDistance": 8.934387,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/10000/1100/1025/1025_57_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 200062639,
+                            "rateCode": 200355583,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Standard Room, 1 Queen Bed, Non Smoking",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 1025,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "true",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "4601b0c7-0ed6-46f1-9ff4-44a547196283-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "122.66",
+                                                    "@rate": "82.23",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "122.66",
+                                                    "@rate": "82.23",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "122.66",
+                                        "@averageRate": "82.23",
+                                        "@commissionableUsdTotal": "164.46",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "82.23",
+                                        "@nightlyRateTotal": "164.46",
+                                        "@surchargeTotal": "22.84",
+                                        "@total": "187.30",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "122.66",
+                                                    "@rate": "82.23",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "122.66",
+                                                    "@rate": "82.23",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "22.84"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "promoId": 226146436,
+                                    "promoDescription": "Save 33%",
+                                    "promoType": "Standard",
+                                    "currentAllotment": 4
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "2",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2109",
+                                        "description": "Free Parking"
+                                    }, {
+                                        "@id": "2192",
+                                        "description": "Free Wireless Internet"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "14",
+                    "@ubsScore": "0",
+                    "hotelId": 277926,
+                    "name": "The Belltown Inn",
+                    "address1": "2301 Third Avenue",
+                    "city": "Seattle",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98121,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 95,
+                    "amenityMask": 1441801,
+                    "tripAdvisorRating": 4,
+                    "tripAdvisorReviewCount": 911,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+                    "locationDescription": "Near Space Needle",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;The Belltown Inn is in the heart of Seattle, walking distance from Cinerama and Moore Theater. This hotel is close to Space Needle and Pike Place",
+                    "highRate": 199.05,
+                    "lowRate": 119.04,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.61475,
+                    "longitude": -122.34484,
+                    "proximityDistance": 11.670267,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/3000000/2340000/2330600/2330513/2330513_28_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 201188267,
+                            "rateCode": 205617404,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Standard Room, 1 Queen Bed",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 2330513,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "true",
+                                    "@rateChange": "true",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "72d0deab-60fc-4645-a3fe-b66956dbb05c-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "170.04",
+                                                    "@rate": "119.04",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "199.05",
+                                                    "@rate": "139.35",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "184.54",
+                                        "@averageRate": "129.20",
+                                        "@commissionableUsdTotal": "258.39",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "139.35",
+                                        "@nightlyRateTotal": "258.39",
+                                        "@surchargeTotal": "55.87",
+                                        "@total": "314.26",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "170.04",
+                                                    "@rate": "119.04",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "199.05",
+                                                    "@rate": "139.35",
+                                                    "@promo": "true",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "55.87"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "promoId": 226336710,
+                                    "promoDescription": "Save 30%",
+                                    "promoType": "Standard",
+                                    "currentAllotment": 36
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "15",
+                    "@ubsScore": "0",
+                    "hotelId": 453492,
+                    "name": "Motel 6 Seattle East - Issaquah",
+                    "address1": "1885 15th Place NW",
+                    "city": "Issaquah",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98027,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 135545152,
+                    "tripAdvisorRating": 3,
+                    "tripAdvisorReviewCount": 110,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-123456-4.gif",
+                    "locationDescription": "Near Lake Sammamish State Park",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;Located in Issaquah, Motel 6 Seattle East - Issaquah is minutes from Lake Sammamish State Park and Costco Headquarters. This motel is within close proximity of",
+                    "highRate": 66.18,
+                    "lowRate": 66.18,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.55199,
+                    "longitude": -122.06039,
+                    "proximityDistance": 3.4109893,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/990000/982600/982536/982536_83_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 200635069,
+                            "rateCode": 203051886,
+                            "maxRoomOccupancy": 4,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Standard Room, 2 Double Beds",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 982536,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "26fa3c3d-7b14-4e5d-8622-143dc8f5fabb-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "66.18",
+                                                    "@rate": "66.18",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "66.18",
+                                                    "@rate": "66.18",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "66.18",
+                                        "@averageRate": "66.18",
+                                        "@commissionableUsdTotal": "132.36",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "66.18",
+                                        "@nightlyRateTotal": "132.36",
+                                        "@surchargeTotal": "20.54",
+                                        "@total": "152.90",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "66.18",
+                                                    "@rate": "66.18",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "66.18",
+                                                    "@rate": "66.18",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "20.54"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 20
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "1",
+                                "ValueAdd": {
+                                    "@id": "2109",
+                                    "description": "Free Parking"
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "16",
+                    "@ubsScore": "0",
+                    "hotelId": 175556,
+                    "name": "Baymont Inn & Suites Seattle/Kirkland WA",
+                    "address1": "12223 Ne 116th St",
+                    "city": "Kirkland",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98034,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 134244360,
+                    "tripAdvisorRating": 3.5,
+                    "tripAdvisorReviewCount": 571,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-123456-4.gif",
+                    "locationDescription": "In Kirkland",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;Located in Kirkland, Baymont Inn &amp; Suites Seattle/Kirkland WA is close to Chateau Ste. Michelle and Kirkland Performance Center. This motel is within the vicinity",
+                    "highRate": 80.23,
+                    "lowRate": 80.23,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.70401,
+                    "longitude": -122.17756,
+                    "proximityDistance": 8.427159,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/10000/1500/1467/1467_192_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 138694,
+                            "rateCode": 1264718,
+                            "maxRoomOccupancy": 4,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Double Room, 2 Double Beds - Advanced Purchase 2 Days Save 15%",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 1467,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "3eb20faa-bf24-4152-9d58-84df51a4d990-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "80.23",
+                                                    "@rate": "80.23",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "80.23",
+                                                    "@rate": "80.23",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "80.23",
+                                        "@averageRate": "80.23",
+                                        "@commissionableUsdTotal": "160.46",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "80.23",
+                                        "@nightlyRateTotal": "160.46",
+                                        "@surchargeTotal": "25.26",
+                                        "@total": "185.72",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "80.23",
+                                                    "@rate": "80.23",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "80.23",
+                                                    "@rate": "80.23",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "25.26"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": true,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 5
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "17",
+                    "@ubsScore": "0",
+                    "hotelId": 276814,
+                    "name": "Cedarbrook Lodge",
+                    "address1": "18525 36th Ave S.",
+                    "city": "SeaTac",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98188,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 4,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 65,
+                    "amenityMask": 1461067,
+                    "tripAdvisorRating": 5,
+                    "tripAdvisorReviewCount": 2185,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-123456-4.gif",
+                    "locationDescription": "Near Silver Dollar Casino",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;Located in SeaTac, Cedarbrook Lodge is in the suburbs and convenient to Silver Dollar Casino and Angle Lake Park. This 4-star hotel is within close proximity of",
+                    "highRate": 159.24,
+                    "lowRate": 159.24,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.43588,
+                    "longitude": -122.28773,
+                    "proximityDistance": 14.1894455,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/3000000/2300000/2299900/2299843/2299843_108_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 200217117,
+                            "rateCode": 201233415,
+                            "maxRoomOccupancy": 4,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Deluxe Room, Accessible",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 2299843,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "161b6a15-ee78-4711-ab55-5909c38ea166-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "159.24",
+                                                    "@rate": "159.24",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "159.24",
+                                                    "@rate": "159.24",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "159.24",
+                                        "@averageRate": "159.24",
+                                        "@commissionableUsdTotal": "318.48",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "159.24",
+                                        "@nightlyRateTotal": "318.48",
+                                        "@surchargeTotal": "51.10",
+                                        "@total": "369.58",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "159.24",
+                                                    "@rate": "159.24",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "159.24",
+                                                    "@rate": "159.24",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "51.10"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 3
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "3",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2196",
+                                        "description": "Free Airport Shuttle"
+                                    }, {
+                                        "@id": "2191",
+                                        "description": "Free High-Speed Internet"
+                                    }, {
+                                        "@id": "2103",
+                                        "description": "Continental Breakfast"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "18",
+                    "@ubsScore": "0",
+                    "hotelId": 453686,
+                    "name": "Motel 6 Seattle North - Kirkland",
+                    "address1": "12010 120th Place NE",
+                    "city": "Kirkland",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98034,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 135544896,
+                    "tripAdvisorRating": 2.5,
+                    "tripAdvisorReviewCount": 46,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/2.5-123456-4.gif",
+                    "locationDescription": "In Kirkland",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;With a stay at Motel 6 Seattle North - Kirkland in Kirkland, you&apos;ll be close to Chateau Ste. Michelle and Kirkland Performance Center. This motel is within the",
+                    "highRate": 66.19,
+                    "lowRate": 66.19,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.70772,
+                    "longitude": -122.17861,
+                    "proximityDistance": 8.678414,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/1000000/996400/996394/996394_65_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 200635095,
+                            "rateCode": 203052058,
+                            "maxRoomOccupancy": 4,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Standard Room, 2 Double Beds",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 996394,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "cb1e8f1f-47d7-47f9-95c6-67a51c1c02e2-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "66.19",
+                                                    "@rate": "66.19",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "66.19",
+                                                    "@rate": "66.19",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "66.19",
+                                        "@averageRate": "66.19",
+                                        "@commissionableUsdTotal": "132.38",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "66.19",
+                                        "@nightlyRateTotal": "132.38",
+                                        "@surchargeTotal": "20.54",
+                                        "@total": "152.92",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "66.19",
+                                                    "@rate": "66.19",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "66.19",
+                                                    "@rate": "66.19",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "20.54"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 35
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "1",
+                                "ValueAdd": {
+                                    "@id": "2109",
+                                    "description": "Free Parking"
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "19",
+                    "@ubsScore": "0",
+                    "hotelId": 204254,
+                    "name": "Econo Lodge Near Bellevue Square",
+                    "address1": "4710 Lake Washington Blvd NE",
+                    "city": "Renton",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98056,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 65,
+                    "amenityMask": 135415809,
+                    "tripAdvisorRating": 2.5,
+                    "tripAdvisorReviewCount": 88,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/2.5-123456-4.gif",
+                    "locationDescription": "In Renton",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;Located in Renton, Econo Lodge Near Bellevue Square is close to The Landing and Seward Park. This motel is within the vicinity of Kubota Garden and Bellevue",
+                    "highRate": 60.45,
+                    "lowRate": 60.45,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.5337,
+                    "longitude": -122.19494,
+                    "proximityDistance": 6.2688007,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/890000/889800/889771/889771_52_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 505337,
+                            "rateCode": 203167275,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Standard Room, 1 Queen Bed, Non Smoking - Stay 2 Nights &amp; Save",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 889771,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "d88deeb2-269d-4fd0-a9bb-c601ef4f8942-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "60.45",
+                                                    "@rate": "60.45",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "60.45",
+                                                    "@rate": "60.45",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "60.45",
+                                        "@averageRate": "60.45",
+                                        "@commissionableUsdTotal": "120.90",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "60.45",
+                                        "@nightlyRateTotal": "120.90",
+                                        "@surchargeTotal": "19.02",
+                                        "@total": "139.92",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "60.45",
+                                                    "@rate": "60.45",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "60.45",
+                                                    "@rate": "60.45",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "19.02"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 2147483647
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "3",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2192",
+                                        "description": "Free Wireless Internet"
+                                    }, {
+                                        "@id": "2109",
+                                        "description": "Free Parking"
+                                    }, {
+                                        "@id": "2104",
+                                        "description": "Full Breakfast"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "20",
+                    "@ubsScore": "0",
+                    "hotelId": 476722,
+                    "name": "Hampton Inn & Suites Bellevue Downtown - Seattle",
+                    "address1": "11405 Northeast 2nd Place",
+                    "city": "Bellevue",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98004,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 0,
+                    "amenityMask": 135677963,
+                    "tripAdvisorRating": 4.5,
+                    "tripAdvisorReviewCount": 353,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-123456-4.gif",
+                    "locationDescription": "Near Bellevue Botanical Garden",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;A stay at Hampton Inn &amp; Suites Bellevue Downtown - Seattle places you in the heart of Bellevue, convenient to Bellevue Botanical Garden and Bellevue College. This",
+                    "highRate": 239.22,
+                    "lowRate": 179.16,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.61222,
+                    "longitude": -122.18618,
+                    "proximityDistance": 4.3635807,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/9000000/8660000/8656000/8655974/8655974_44_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 200801346,
+                            "rateCode": 203993720,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Room, 1 King Bed, Refrigerator &amp; Microwave",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 8655974,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "true",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "47059721-e36d-4528-8a4a-95faa78cbceb-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "179.16",
+                                                    "@rate": "179.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "239.22",
+                                                    "@rate": "239.22",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "209.19",
+                                        "@averageRate": "209.19",
+                                        "@commissionableUsdTotal": "418.38",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "239.22",
+                                        "@nightlyRateTotal": "418.38",
+                                        "@surchargeTotal": "75.34",
+                                        "@total": "493.72",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "179.16",
+                                                    "@rate": "179.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "239.22",
+                                                    "@rate": "239.22",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "75.34"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 2147483647
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "2",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2191",
+                                        "description": "Free High-Speed Internet"
+                                    }, {
+                                        "@id": "2205",
+                                        "description": "Breakfast Buffet"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "21",
+                    "@ubsScore": "0",
+                    "hotelId": 107348,
+                    "name": "The Roosevelt, A Provenance Hotel",
+                    "address1": "1531 7th Ave",
+                    "city": "Seattle",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98101,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 3.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 95,
+                    "amenityMask": 147522,
+                    "tripAdvisorRating": 4,
+                    "tripAdvisorReviewCount": 1988,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+                    "locationDescription": "Near Nordstrom",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;A stay at The Roosevelt, A Provenance Hotel places you in the heart of Seattle, steps from Game Works and Nordstrom. This hotel is close to Pike Place Market and",
+                    "highRate": 213.8,
+                    "lowRate": 113.08,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.61165,
+                    "longitude": -122.33339,
+                    "proximityDistance": 11.117158,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/30000/28300/28274/62c533a7_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 201169872,
+                            "rateCode": 205547547,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Deluxe Room, 1 Queen Bed",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 28274,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "true",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "730efbc8-0cce-4ee3-b478-1a1a1fb43860-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "113.08",
+                                                    "@rate": "113.08",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "213.80",
+                                                    "@rate": "213.80",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "163.44",
+                                        "@averageRate": "163.44",
+                                        "@commissionableUsdTotal": "326.88",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "213.80",
+                                        "@nightlyRateTotal": "326.88",
+                                        "@surchargeTotal": "62.77",
+                                        "@total": "389.65",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "113.08",
+                                                    "@rate": "113.08",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "213.80",
+                                                    "@rate": "213.80",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "62.77"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": true,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 3
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "22",
+                    "@ubsScore": "0",
+                    "hotelId": 131187,
+                    "name": "Marina Inn",
+                    "address1": "22300 7th Ave S",
+                    "city": "Des Moines",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98198,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 135284738,
+                    "tripAdvisorRating": 3.5,
+                    "tripAdvisorReviewCount": 143,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-123456-4.gif",
+                    "locationDescription": "Near Des Moines Marina",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;With a stay at Marina Inn, you&apos;ll be centrally located in Des Moines, walking distance from Des Moines Marina and close to Highline Community College. This hotel is",
+                    "highRate": 69.16,
+                    "lowRate": 69.16,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.40179,
+                    "longitude": -122.32587,
+                    "proximityDistance": 17.146332,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/30000/22000/21980/21980_59_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 245801,
+                            "rateCode": 634747,
+                            "maxRoomOccupancy": 2,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Standard Room, 1 King Bed",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 21980,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "9dbbe95b-6c94-4ca8-90b5-0e57e964c3b8-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "69.16",
+                                                    "@rate": "69.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "69.16",
+                                                    "@rate": "69.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "69.16",
+                                        "@averageRate": "69.16",
+                                        "@commissionableUsdTotal": "138.32",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "69.16",
+                                        "@nightlyRateTotal": "138.32",
+                                        "@surchargeTotal": "18.46",
+                                        "@total": "156.78",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "69.16",
+                                                    "@rate": "69.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "69.16",
+                                                    "@rate": "69.16",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "18.46"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 1
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "2",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2103",
+                                        "description": "Continental Breakfast"
+                                    }, {
+                                        "@id": "2192",
+                                        "description": "Free Wireless Internet"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "23",
+                    "@ubsScore": "0",
+                    "hotelId": 198664,
+                    "name": "Holiday Inn Seattle Downtown",
+                    "address1": "211 Dexter Ave N",
+                    "city": "Seattle",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98109,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 3,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 52,
+                    "amenityMask": 1442059,
+                    "tripAdvisorRating": 4,
+                    "tripAdvisorReviewCount": 524,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+                    "locationDescription": "Near Space Needle",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;A stay at Holiday Inn Seattle Downtown places you in the heart of Seattle, walking distance from Museum of Pop Culture and Seattle Center. This hotel is close to",
+                    "highRate": 130.21,
+                    "lowRate": 117.18,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.61993,
+                    "longitude": -122.34236,
+                    "proximityDistance": 11.601943,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/810000/805800/805793/805793_330_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 248334,
+                            "rateCode": 650222,
+                            "maxRoomOccupancy": 4,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Room, 2 Queen Beds, Non Smoking - Advance Purchase Offers",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 805793,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "true",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "86abbd6a-8b19-4b61-8dd0-83b4ecb66cb8-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "117.18",
+                                                    "@rate": "117.18",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "130.21",
+                                                    "@rate": "130.21",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "123.70",
+                                        "@averageRate": "123.70",
+                                        "@commissionableUsdTotal": "247.39",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "130.21",
+                                        "@nightlyRateTotal": "247.39",
+                                        "@surchargeTotal": "50.02",
+                                        "@total": "297.41",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "117.18",
+                                                    "@rate": "117.18",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "130.21",
+                                                    "@rate": "130.21",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "50.02"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": true,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 2147483647
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    "@order": "24",
+                    "@ubsScore": "0",
+                    "hotelId": 214694,
+                    "name": "La Quinta Inn Lynnwood",
+                    "address1": "4300 Alderwood Mall Blvd",
+                    "city": "Lynnwood",
+                    "stateProvinceCode": "WA",
+                    "postalCode": 98036,
+                    "countryCode": "US",
+                    "airportCode": "SEA",
+                    "supplierType": "E",
+                    "propertyCategory": 1,
+                    "hotelRating": 2.5,
+                    "hotelRatingDisplay": "Star",
+                    "confidenceRating": 90,
+                    "amenityMask": 134244419,
+                    "tripAdvisorRating": 4,
+                    "tripAdvisorReviewCount": 468,
+                    "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+                    "locationDescription": "Near Lynnwood Convention Center",
+                    "shortDescription": "&lt;p&gt;&lt;b&gt;Property Location&lt;/b&gt; &lt;br /&gt;Located in Lynnwood, La Quinta Inn Lynnwood is in the business district and convenient to Lynnwood Convention Center and Alderwood Mall. This hotel is within close",
+                    "highRate": 84.15,
+                    "lowRate": 84.15,
+                    "rateCurrencyCode": "USD",
+                    "latitude": 47.81734,
+                    "longitude": -122.29099,
+                    "proximityDistance": 17.823938,
+                    "proximityUnit": "MI",
+                    "hotelInDestination": true,
+                    "thumbNailUrl": "/hotels/1000000/900000/897700/897642/3c915edf_t.jpg",
+                    "RoomRateDetailsList": {
+                        "RoomRateDetails": {
+                            "roomTypeCode": 32699,
+                            "rateCode": 67640,
+                            "maxRoomOccupancy": 3,
+                            "quotedRoomOccupancy": 2,
+                            "minGuestAge": 0,
+                            "roomDescription": "Standard Room, 1 King Bed",
+                            "propertyAvailable": true,
+                            "propertyRestricted": false,
+                            "expediaPropertyId": 897642,
+                            "RateInfos": {
+                                "@size": "1",
+                                "RateInfo": {
+                                    "@priceBreakdown": "true",
+                                    "@promo": "false",
+                                    "@rateChange": "false",
+                                    "RoomGroup": {
+                                        "Room": {
+                                            "numberOfAdults": 2,
+                                            "numberOfChildren": 0,
+                                            "rateKey": "c7150178-d48e-4840-90d0-ab7d4f0ce4c2-5001",
+                                            "ChargeableNightlyRates": [
+                                                {
+                                                    "@baseRate": "84.15",
+                                                    "@rate": "84.15",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "84.15",
+                                                    "@rate": "84.15",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "ChargeableRateInfo": {
+                                        "@averageBaseRate": "84.15",
+                                        "@averageRate": "84.15",
+                                        "@commissionableUsdTotal": "168.30",
+                                        "@currencyCode": "USD",
+                                        "@maxNightlyRate": "84.15",
+                                        "@nightlyRateTotal": "168.30",
+                                        "@surchargeTotal": "27.22",
+                                        "@total": "195.52",
+                                        "NightlyRatesPerRoom": {
+                                            "@size": "2",
+                                            "NightlyRate": [
+                                                {
+                                                    "@baseRate": "84.15",
+                                                    "@rate": "84.15",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }, {
+                                                    "@baseRate": "84.15",
+                                                    "@rate": "84.15",
+                                                    "@promo": "false",
+                                                    "@fenced": "false"
+                                                }
+                                            ]
+                                        },
+                                        "Surcharges": {
+                                            "@size": "1",
+                                            "Surcharge": {
+                                                "@type": "TaxAndServiceFee",
+                                                "@amount": "27.22"
+                                            }
+                                        }
+                                    },
+                                    "nonRefundable": false,
+                                    "rateType": "MerchantStandard",
+                                    "currentAllotment": 36
+                                }
+                            },
+                            "ValueAdds": {
+                                "@size": "3",
+                                "ValueAdd": [
+                                    {
+                                        "@id": "2109",
+                                        "description": "Free Parking"
+                                    }, {
+                                        "@id": "2192",
+                                        "description": "Free Wireless Internet"
+                                    }, {
+                                        "@id": "1073742786",
+                                        "description": "Free Breakfast"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

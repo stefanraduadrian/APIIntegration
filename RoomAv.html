@@ -1,0 +1,84 @@
+<html lang="en-us">
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script language="javascript" type="text/javascript" src="widget.js"></script>
+    <link rel="stylesheet" type="text/css" href="RAstyle.css">
+    <title>ROOM AVAILABILITY</title>
+</head>
+
+<body>
+
+    <span class="back-link"><a href="index.html">Back to search results</a></span>
+    <span class="search-params">CHECKIN DAY + (MONTH) + (YEAR)  + CHECKOUT DAY + MONTH + YEAR , <strong>NUMBER OF NIGHTS</strong>, NR OF ROOMS, NR OF GUESTS</span>
+    
+<div class="change-search">
+    <button class="change-search-button" type="button">Change search</button>
+    <form class="cont-bd" action="/search.do" role="search">
+        <fieldset class="widget-query-destination">
+            <label for="totpq-destination">Destination, hotel, landmark or address</label>
+            <form id="searchbox">
+                <input id="location" type="text" name="Location" autocomplete="on" placeholder="Destination or hotel name">
+                <br>
+                <label>Select your dates</label>
+                <label for="checkin">Check In:</label>
+                <input id="checkin" type="date" name="checkin">
+                <label for="checkout">Check Out:</label>
+                <input id="checkout" type="date" name="checkout">
+                <button id="searchbutton" type="submit" onclick="usersInput()">Search</button>
+            </form>
+        </fieldset>
+        <fieldset class="widget-query-rooms">
+            <div class="widget-query-room-number">
+                <label for="totpq-rooms">Rooms</label>
+                <select name="q-rooms" class="query-rooms" id="totpq-rooms">
+                    <option selected="selected">1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                    <option>7</option>
+                    <option>8</option>
+                </select>
+            </div>
+            <fieldset class="widget-query-room-options">
+                <legend class="widget-query-room-options-label">Room 1:</legend>
+                <div class="widget-query-people">
+                    <div class="widget-query-adults">
+                        <label for="totpq-room-0-adults">Adults</label>
+                        <select name="q-room-0-adults" id="totpq-room-0-adults">
+                            <option selected="selected">1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                            <option>6</option>
+                            <option>7</option>
+                            <option>8</option>
+                        </select><span>Aged 18+</span>
+                    </div>
+                    <div class="widget-query-children">
+                        <label for="totpq-room-0-children">Children</label>
+                        <select name="q-room-0-children" id="totpq-room-0-children">
+                            <option selected="selected">0</option>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                        </select><span>0-17</span>
+                    </div>
+                </div>
+            </fieldset>
+        </fieldset>
+    </form>
+</div>
+
+
+     
+</body>
+</html>   
+    
+<!--    
+    
+
+

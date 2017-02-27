@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script language="javascript" type="text/javascript" src="widget.js"></script>    
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>MyProject</title>    
+</head>
+
+<body>
+
+<h1>Book your own trip</h1>
+
+
+<h3>Select your dates</h3>
+    
+
+    
+<form id="searchbox">
+    <input id="location" type="text" name="Location" autocomplete="on" placeholder="Destination or hotel name" required>
+        <br>
+    <label>Select your dates</label>
+        <label for="checkin" >Check In:</label>
+    <input id="checkin" type="date" name="checkin" required>
+        <label for="checkout" >Check Out:</label>
+    <input id="checkout" type="date" name="checkout" required>
+    <button id="searchbutton" type="submit" onclick="usersInput()">Search</button>
+</form>
+    
+<p id="required"></p>
+
+    <div class="hotel-wrap"></div>
+    
+    
+</body>
+</html>
+
+
+ 
